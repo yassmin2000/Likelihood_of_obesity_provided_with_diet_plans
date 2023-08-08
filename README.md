@@ -199,7 +199,37 @@ Feature importance allows us to identify and prioritize the most influential fac
 
 ![feature importance](https://i.ibb.co/tLVdzDy/download.png)
 
-## Model Prediction Functions
+## App Design
+- **Login & Sign-up pages:**
+![feature importance](https://i.ibb.co/yYVrkMz/Picture1.png)
+- **User data:**
+![feature importance](https://i.ibb.co/xMtjKxG/Picture2.png)
+- **Calories & Recommended meals and exercises:**
+![feature importance](https://i.ibb.co/j5Nyd1M/Picture3.png)
+
+## 🙅🏻‍♂️Contributors <a name = "Contributors"></a>
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/MohamedMandour10" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/115044826?v=4" width="150px;" alt="Mohamed Elsayed Eid"/>
+    <br />
+    <sub><b>Mohamed Elsayed Eid</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/melsayed8450" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100236901?v=4" width="150px;" alt="Mohamed Elsayed Ali"/>
+    <br />
+    <sub><b>Mohamed Elsayed Ali</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/MahmoudMagdy404" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/83336074?v=4" width="150px;" alt="Mahmoud Magdy"/>
+    <br />
+    <sub><b>Mahmoud Magdy</b></sub></a>
+    </td>
+      </tr>
+ </table>
 
 
 
