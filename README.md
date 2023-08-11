@@ -4,30 +4,22 @@
 🏆 We proudly stood among the elite "shortlisted teams" in the prestigious Nile University 16th UGRF Special Edition, 2023 Competition.
 Our presentation earned its place in the top 10, surpassing more than 121 qualified teams.
 
-🚀 Our project centers on predictive health empowerment. We've harnessed the potential of data to pioneer obesity risk assessment.
-By embracing user input encompassing fundamental factors like weight, height, age, and lifestyle-related data, we've crafted an innovative classification model.
-Through this innovation, we bestow users with bespoke caloric requirements, personalized meal suggestions, and tailored exercise recommendations.
-All this power is conveniently delivered through an intuitive, user-friendly mobile application.
+🚀  In essence, our project revolves around enabling users to input their information, which comprises fundamental details like weight, height, age, and lifestyle-related data. Leveraging our developed classification model, we provide the user with personalized calorie requirements for maintenance, along with suggestions for recommended meals and exercises. All of this is made accessible through a user-friendly mobile application.
 
 ## **Datasets**
-🔍 Our obesity risk prediction journey involved harnessing the insights of two primary datasets.
-These datasets categorized individuals across a spectrum from "underweight" to "obesity type III."
-Integrating these datasets and harmonizing attributes magnified the model's strength, contributing to an enriched user experience.
-Moreover, our meal recommendation engine drew from a trio of diverse datasets to cater to individual preferences.
-And, we're actively expanding our exercise dataset with inclusive workouts for all users.
+🔍 For predicting obesity types, we utilized two primary datasets that can be classified into various categories such as "underweight, normal weight, overweight types I & II, obesity types I & II & III." To enhance the robustness of our model and provide the user with more comprehensive insights, we combined these datasets using shared, appropriate columns. This integration not only fortified the model's performance but also introduced additional features to enrich the user experience.
+
+Incorporating diversity into our meal recommendations was achieved by integrating three distinct datasets. This approach aimed to introduce a range of options and cater to individual user preferences effectively. As for the exercise dataset, there is an ongoing effort to expand its content by including a broader spectrum of workouts that are accessible to all users.
 
 ## **Data Exploration and Formatting**
-📊 We embarked on an in-depth data exploration, unveiling key insights through statistical metrics like mean, variance, and median.
-This provided us with a keen understanding of each feature's behavior and its potential impact on our model's prowess.
-Adding to this, we engineered novel attributes such as "BMI" and "BMR," distilled from existing data points like weight, height, and gender.
-These dynamic attributes fortify the model's resilience and credibility.
-The intricate patterns within the data were visually uncovered, guiding our course.
+📊 We conducted a comprehensive analysis of the data, calculating key statistical metrics like mean, variance, and median. This process provided insights into the behavior of each feature and its potential impact on the model. To further enhance the model's accuracy and reliability, we introduced additional features such as "BMI" and "BMR." These new attributes were derived from existing data points like weight, height, and gender. The inclusion of these derived features aimed to bolster the model's robustness and validity. Additionally, we visualized the data distribution to gain a deeper understanding of its patterns and trends.
+
+We also harmonized common attributes across the two datasets, ensuring uniform labels and attributes. This standardization was a crucial step in facilitating the seamless merging of the datasets, enabling a cohesive and coherent integration process.
+
+We converted categorical data into numerical form by leveraging the "fit_transform" method provided by the sklearn preprocessing library. This transformation allowed us to represent categorical information in a format suitable for analytical processes and model training.
 
 ## **Data Cleaning**
-🧹 During our data cleaning odyssey, we bid farewell to null values and banished duplications.
-Confronting outliers, we summoned the robust "Interquartile Range (IQR) Method."
-By exercising this technique, we sculpted a more refined dataset.
-This meticulous process underpins our model's accuracy and performance.
+🧹 During the data cleaning phase, we systematically eliminated both null values and duplicate entries. To address outliers that were detected, we applied the interquartile range (IQR) method. This method involves removing data points lying beyond a certain range, contributing to a more refined dataset that is better suited for analysis and subsequently enhances the accuracy of our model.
 
 
 
