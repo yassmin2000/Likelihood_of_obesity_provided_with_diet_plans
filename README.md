@@ -226,6 +226,12 @@ Feature importance allows us to identify and prioritize the most influential fac
     <br />
     <sub><b>Yassmin Sayed</b></sub></a>
     </td>
+      <td align="center">
+    <a href="https://github.com/SaraElsaggan" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/104657535?v=4" width="150px;" alt="Mahmoud Magdy"/>
+    <br />
+    <sub><b>Sara Elsaggan</b></sub></a>
+    </td>
       </tr>
  </table>
 
