@@ -1,4 +1,4 @@
-![NU certificate](WhatsApp-Image-2024-06-08-at-02.35.35_761b5f15.jpg)
+![NU certificate](NU.jpg)
 
 
 # **Nile University 16th UGRF Special Edition, 2023 Competition**
